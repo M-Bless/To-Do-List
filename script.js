@@ -5,23 +5,23 @@ let categories = [
   },
   {
     title: "Work",
-    img: "briefcase.png",
+    img: "boutique.png",
   },
   {
     title: "Shopping",
-    img: "shopping.png",
+    img: "shop.png",
   },
   {
     title: "Coding",
-    img: "web-design.png",
+    img: "coding.png",
   },
   {
     title: "Health",
-    img: "healthcare.png",
+    img: "health.png",
   },
   {
     title: "Fitness",
-    img: "dumbbell.png",
+    img: "dumbbells.png",
   },
   {
     title: "Education",
@@ -29,7 +29,7 @@ let categories = [
   },
   {
     title: "Finance",
-    img: "saving.png",
+    img: "money.png",
   },
 ];
 
